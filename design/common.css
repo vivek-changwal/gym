@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Oswald;
+    src: url('../font/Oswald/static/Oswald-Medium.ttf');
+  }
+  :root {
+    --heading: #0d0d0d;
+    --button: #ff8e3c;
+    --paragraph: #2a2a2a;
+    --buttonText: #0d0d0d;
+    --subheading: #EAA636;
+    --subparagraph: #2a2a2a;
+    --background: #eff0f3;
+  }
